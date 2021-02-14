@@ -11,4 +11,6 @@ To run this project just run the command below in your shell:
 3 - Double click on `index.html` file
 
 ## Access Prototype
-You can find the running prototype here: [Access Running Prototype](https://shotting-game.spirandeli.com) or [Here](http://shotting-game.spirandeli.com.s3-website-sa-east-1.amazonaws.com)
+You can find the running prototype:
+- [Access Running Prototype on AWS S3](https://shotting-game.spirandeli.com) 
+- [Access Running Prototype on Github.io](https://lucasspi.github.io/hs-2d-Shooting-game/)
