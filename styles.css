@@ -2,7 +2,7 @@
     font-family: 'Games'
 }
 
-#hero {
+#rocket {
     /* background: #ff0000; */
     background-image: url(hero.png);
     width: 40px;
@@ -19,7 +19,7 @@
     left: 0px;
     top: 0px;
 }
-#laser {
+#shoot {
     background: #00FF00;
     width: 2px;
     height: 50px;
