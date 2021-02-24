@@ -12,3 +12,5 @@ To run this project just run the command below in your shell:
 
 ## Access Prototype
 You can find the running prototype here: [Access Running Prototype](https://shotting-game.spirandeli.com) or [Here](http://shotting-game.spirandeli.com.s3-website-sa-east-1.amazonaws.com)
+
+![alt text](thumb.png)
